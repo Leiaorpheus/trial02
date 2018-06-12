@@ -1,0 +1,4 @@
+trial02
+
+A in git status --short is added
+M in git status --short is modified
